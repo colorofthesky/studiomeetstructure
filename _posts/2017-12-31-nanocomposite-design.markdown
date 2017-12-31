@@ -18,7 +18,7 @@ Summary: 'Over the course of several years I worked with a partner to build a st
   of a growing startup.
 
 '
-Hero Image:
+Hero_Image:
   Image Title: Aerogel Fabrication
   Image Description: Silica Aerogel we formulated to be more affordable, designed
     with a low cost molding process.

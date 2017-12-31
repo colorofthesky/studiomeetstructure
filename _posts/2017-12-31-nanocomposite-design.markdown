@@ -14,6 +14,7 @@ Summary: "Over the course of several years I worked with a partner to build a st
   designing, marketing and selling aerogels - the lowest density bulk solids. After
   developing and validating the core product process, I oversaw operations and coordinated
   a growing team. \n"
+layout: post
 ---
 
 New materials have the potential to transform society. From advanced alloys to composites to engineered concretes, every step forward in material science has unlocked design opportunities and innovations in form and function in the built world. 

@@ -14,6 +14,10 @@ Summary: "Over the course of several years I worked with a partner to build a st
   designing, marketing and selling aerogels - the lowest density bulk solids. After
   developing and validating the core product process, I oversaw operations and coordinated
   a growing team. \n"
+Hero Image:
+  Image Title: Aerogel Fabrication
+  Image Description: Silica Aerogel we formulated to be more affordable, designed
+    with a low cost molding process.
 layout: post
 ---
 

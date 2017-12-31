@@ -10,10 +10,14 @@ tags:
 - product design
 - ethereal
 - scrappy
-Summary: "Over the course of several years I worked with a partner to build a startup
-  designing, marketing and selling aerogels - the lowest density bulk solids. After
-  developing and validating the core product process, I oversaw operations and coordinated
-  a growing team. \n"
+Summary: 'Over the course of several years I worked with a partner to build a startup
+  designing, marketing and selling aerogels - nano-materials with extreme properties.
+  After developing and validating the core product process, I oversaw operations and
+  coordinated a growing team.  Operations included designing and overseeing manufacturing
+  lines, inventory, e-commerce, outreach, sales and customer service - most aspect
+  of a growing startup.
+
+'
 Hero Image:
   Image Title: Aerogel Fabrication
   Image Description: Silica Aerogel we formulated to be more affordable, designed

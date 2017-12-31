@@ -19,6 +19,7 @@ Summary: 'Over the course of several years I worked with a partner to build a st
 
 '
 Hero_Image: "/uploads/Aerogel_Hero.jpg"
+Hero_URL: "/uploads/Aerogel_Hero.jpg"
 layout: post
 ---
 

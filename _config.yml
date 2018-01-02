@@ -1,5 +1,5 @@
 ---
-title: Studio Meet Structure
+title: STUDIOMEETSTRUCTURE
 timezone: UTC
 collections:
   posts:
@@ -21,3 +21,4 @@ defaults:
   values:
     layout: page
 permalink: pretty
+NAME: Will Walker
